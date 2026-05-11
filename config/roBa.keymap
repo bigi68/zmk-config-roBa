@@ -75,18 +75,18 @@
         };
 
         M-L {
-            bindings = <&mkp LCLK>;
+            bindings = <&mkp MB1>;
             key-positions = <18 19>;
         };
 
         M-R {
-            bindings = <&mkp RCLK>;
+            bindings = <&mkp MB2>;
             key-positions = <19 20>;
         };
 
         M-3 {
             bindings = <&mkp MB3>;
-            key-positions = <7 19>;
+            key-positions = <18 6>;
         };
     };
 
