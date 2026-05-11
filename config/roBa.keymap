@@ -79,7 +79,7 @@
             key-positions = <18 19>;
         };
 
-        M-L {
+        M-R {
             bindings = <&mkp RCLK>;
             key-positions = <19 20>;
         };
